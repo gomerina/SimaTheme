@@ -9,7 +9,8 @@
             "SP",
             "MainMenu",
             "QuickAccess",
-            "notificationtoasts.*"
+            "notificationtoasts.*",
+            "bigpicture"
         ]
     },
     "target": "System-Wide"
