@@ -1,19 +1,13 @@
 {
-	"name": "SimaTheme",
-	"author": "gomerina",
-	"target": "System-Wide",
-	"version": "v1.0",
-	"description": "Nice theme",
-	"manifest_version": 5,
-	"inject": {
-		"shared.css": [
-			"SP",
-			"MainMenu",
-			"QuickAccess",
-			"notificationtoasts.*",
-			"bigpicture"
-		]
-	},
-	"dependencies": {},
-	"patches": {}
+    "name": "SimaTheme",
+    "author": "gomerina",
+    "target": "System-Wide",
+    "version": "v1.0",
+    "description": "Nice theme",
+    "manifest_version": 9,
+    "inject": {
+        "shared.css": [
+            "bigpicture"
+        ]
+    }
 }
