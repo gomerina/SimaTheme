@@ -1,9 +1,9 @@
 {
-    "name": "Obsidian",
-    "description": "This theme is based off of pure black themes commonly created for AMOLED devices. There are options for different dark colors and a custom color picker. Some elements with blur and glow effects have been disabled by default but can be enabled in the settings.",
-    "author": "EMERALD0874",
-    "version": "v4.2",
-    "manifest_version": 6,
+    "name": "simaTheme",
+    "description": "Nice theme",
+    "author": "gomerikk",
+    "version": "v1.0",
+    "manifest_version": 8,
     "inject": {
         "shared.css": [
             "SP",
